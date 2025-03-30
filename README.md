@@ -20,7 +20,7 @@
 
 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![Dharshan GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharshanprogrammer&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Dharshan-Programmer?theme=dark&font=Marcellus&ext=contest)
 
