@@ -2,13 +2,13 @@
 
  Computer Science Engineering Student !
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [ linkedin ](www.linkedin.com/in/dharshan-senthil)                                                 
+- 🔭 Here's my [ linkedin /](www.linkedin.com/in/dharshan-senthil)                                                 
 - 🌱 I’m currently learning  DSA
 - 💼 **Previously Coded  In  C Programming Language**:   
 - 😇 I am Looking For Help  With Placements In FAANG
 - ⚡  Fact: I Love To Code And Explore Technologies
 - Social Presence
-<br /> <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/dharshan-senthil-b18721316) <br/>
+<br /> <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/dharshan-senthil) <br/>
 
 
 ### I code in
