@@ -26,8 +26,7 @@
  <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX 4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/INTEL- i7 13700 HX-ED1C24?style=for-the-badge&logo=intel&logoColor=blue"/> 
 
 
-
-<img src="https://streak-stats.demolab.com?user=dharshanprogrammer&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+![Dharshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharshanprogrammer&theme=dark&show_icons=true&&hide=issues,contribs)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Dharshan-Programmer?theme=dark&font=Marcellus&ext=contest)
 
