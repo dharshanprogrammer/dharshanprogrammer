@@ -26,7 +26,8 @@
  <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX 4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/INTEL- i7 13700 HX-ED1C24?style=for-the-badge&logo=intel&logoColor=blue"/> 
 
 
-![Dharshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharshanprogrammer&theme=dark&show_icons=true&&hide=issues,contribs)
+![Dharshan's github stats](https://github-readme-stats.vercel.app/api?username=dharshanprogrammer&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharshanprogrammer&theme=tokyonight&layout=compact)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Dharshan-Programmer?theme=dark&font=Marcellus&ext=contest)
 
