@@ -25,10 +25,9 @@
 ### 💻 Workspace Spec
  <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX 4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/INTEL- i7 13700 HX-ED1C24?style=for-the-badge&logo=intel&logoColor=blue"/> 
 
-
-![Dharshan's github stats](https://github-readme-stats.vercel.app/api?username=dharshanprogrammer&theme=tokyonight&show_icons=true&hide=["issues"])
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharshanprogrammer&theme=tokyonight&layout=compact)
+[![Dharshan Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dharshanprogrammer?cardType=level&theme=blueberry&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharshanprogrammer&theme=tokyonight&layout=compact)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Dharshan-Programmer?theme=dark&font=Marcellus&ext=contest)
+
 
 [![Dharshan 's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dharshanprogrammer&bg_color=000000&color=ffffff&line=00db2c&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
