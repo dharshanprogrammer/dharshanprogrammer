@@ -16,7 +16,7 @@
 
 
 ### I Code In
- [![My Skills](https://skillicons.dev/icons?i=c,cpp,python&theme=dark)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java&theme=light)](https://skillicons.dev)
 
 ### IDE and Tools I Use
 
