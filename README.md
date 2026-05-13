@@ -4,7 +4,7 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's My [ linkedin/ ](https://www.linkedin.com/in/dharshan-senthil/)                                                 
 - 🌱 I’m Currently Learning  DSA
-- 💼 **BUILDING FULL-STACK WEB APPS**   
+- 💼 **BUILDING FULL-STACK WEB AND MOBILE APPS**   
 - 😇 I am Looking For Help  With Placements In FAANG
 - ⚡  Fact: I Enjoy To Write Clean Code And Explore Technologies
 - 😇 Ask About Tech !!
