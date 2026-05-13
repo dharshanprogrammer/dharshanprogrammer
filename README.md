@@ -20,7 +20,7 @@
 
 ### IDE and Tools I Use
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,notion,pycharm,git,idea&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,notion,pycharm,git,idea,postman&perline=9)](https://skillicons.dev)
 
 ### 💻 Workspace Spec
  <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX 4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/INTEL- i7 13700 HX-ED1C24?style=for-the-badge&logo=intel&logoColor=blue"/> 
