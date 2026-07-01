@@ -25,7 +25,7 @@
 ### 💻 Workspace Spec
  <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX 4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/INTEL- i7 13700 HX-ED1C24?style=for-the-badge&logo=intel&logoColor=blue"/> 
 
-[![Dharshan Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dharshanprogrammer?cardType=level&theme=blueberry&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dharshanprogrammer?cardType=level&theme=darcula&fontFamily=Alegreya%20Sans%20SC&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Dharshan-Programmer?theme=dark&font=Marcellus&ext=contest)
 
