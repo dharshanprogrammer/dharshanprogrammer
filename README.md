@@ -1,33 +1,55 @@
-## Hi there 👋 It's me Dharshan
+<h1 align="center">Hi, I am Dharshan 👋</h1>
 
- Computer Science Engineering Student !
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's My [ linkedin/ ](https://www.linkedin.com/in/dharshan-senthil/)                                                 
-- 🌱 I’m Currently Learning  DSA
-- 💼 **BUILDING FULL-STACK WEB AND MOBILE APPS**   
-- 😇 I am Looking For Help  With Placements In FAANG
-- ⚡  Fact: I Enjoy To Write Clean Code And Explore Technologies
-- 😇 Ask About Tech !!
-- Social Presence
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dharshan-senthil/) <br/>
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Dharshan024)
- <br />
+<p align="center">
+  <b>Computer Science Engineering Student | Full-Stack Web and Mobile App Builder</b><br/>
+  I write clean code, explore new technologies and I am working towards a career in FAANG.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dharshan-senthil/"><img src="https://img.shields.io/badge/LinkedIn-Dharshan_Senthil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/Dharshan024"><img src="https://img.shields.io/badge/Twitter-@Dharshan024-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Dharshan-Programmer"><img src="https://img.shields.io/badge/LeetCode-Dharshan--Programmer-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+</p>
+
+---
+
+### 🚀 What I am up to
+
+- 🌱 Currently learning Data Structures and Algorithms (DSA)
+- 💼 Building full-stack web and mobile apps
+- 🎯 Looking for help and guidance with placements in FAANG
+- ⚡ Fun fact: I enjoy writing clean code and exploring new technologies
+- 💬 Ask me about tech, I am happy to chat!
+- 🔭 Find me on [LinkedIn](https://www.linkedin.com/in/dharshan-senthil/)
+
+### 💻 I code in
+
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,javascript,typescript,python,css,html,react,tailwind,mysql,mongodb,&theme=light)](https://skillicons.dev)
+
+### 🛠️ Tools I use
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea,git,notion,firebase,vercel,postman,docker&theme=light)](https://skillicons.dev)
 
 
+### 🖥️ Workspace spec
 
-### I Code In
- [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,javascript,html,css,python&theme=light)](https://skillicons.dev)
+<p>
+  <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img height="30" src="https://img.shields.io/badge/INTEL-i7_13700HX-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+</p>
 
-### IDE and Tools I Use
+### 🤝 Let us connect
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,notion,pycharm,git,idea,postman&perline=9)](https://skillicons.dev)
+<p>
+  <a href="https://www.linkedin.com/in/dharshan-senthil/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/Dharshan024"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 
-### 💻 Workspace Spec
- <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX 4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/INTEL- i7 13700 HX-ED1C24?style=for-the-badge&logo=intel&logoColor=blue"/> 
+### 📈 GitHub and LeetCode stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dharshanprogrammer?cardType=level&theme=darcula&fontFamily=Alegreya%20Sans%20SC&preferLogin=false)](https://git.io/awesome-stats-card)
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Dharshan-Programmer?theme=dark&font=Marcellus&ext=contest)
-
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dharshanprogrammer&show_icons=true&hide=issues,contribs&theme=dark&title_color=00db2c&icon_color=00db2c&text_color=ffffff&bg_color=0d1117&border_color=00db2c" />
+  <a href="https://leetcode.com/u/Dharshan-Programmer"><img height="170" src="https://leetcard.jacoblin.cool/Dharshan-Programmer?ext=contest&theme=dark" /></a>
+</p>
 
 [![Dharshan 's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dharshanprogrammer&bg_color=000000&color=ffffff&line=00db2c&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
