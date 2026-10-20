@@ -26,7 +26,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,javascript,typescript,python,css,html,react,tailwind,mysql,mongodb,&theme=light)](https://skillicons.dev)
 
-### 🛠️ Tools I use
+### 🛠️ IDE and Tools I use
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea,git,notion,firebase,vercel,postman,docker&theme=light)](https://skillicons.dev)
 
